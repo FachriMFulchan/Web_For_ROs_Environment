@@ -1,4 +1,4 @@
-Web ini bisa menggunakan HTML, VueJS, dan Bootstrap
+Web ini menggunakan HTML, VueJS, dan Bootstrap
 
 Ga connect ke turtlebot
 
